@@ -1,0 +1,16 @@
+.btn {
+  background-color: #f14668;
+  border-color: transparent;
+  color: #fff;
+  border-radius: 4px;
+  margin: 0 5px;
+}
+
+.btn:focus {
+  box-shadow: 0 0 0 0.125em rgba(241, 70, 104, 0.25);
+  outline: none;
+}
+
+.btn:hover {
+  background-color: #d42d4f;
+}

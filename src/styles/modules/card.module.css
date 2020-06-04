@@ -1,0 +1,23 @@
+.card {
+  background-color: #fff;
+  box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1),
+    0 0 0 1px rgba(10, 10, 10, 0.02);
+  color: #4a4a4a;
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.cardContent {
+  background-color: transparent;
+  padding: 1px 30px;
+  text-align: center;
+}
+
+.cardImage {
+  width: 100px;
+}
+
+.card:hover {
+  box-shadow: 0 0.5em 1em -0.125em rgba(241, 70, 104, 0.1),
+    0 0 0 1px rgba(241, 70, 104, 0.1);
+}
