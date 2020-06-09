@@ -14,7 +14,7 @@ const DetailsPokemon = ({ pokemon }) => {
         <h1>{pokemon.name}</h1>
         <img
           className={cardImage}
-          src={pokemon.sprites.back_default}
+          src={pokemon.sprites.front_default}
           alt={pokemon.name}
         />
       </div>

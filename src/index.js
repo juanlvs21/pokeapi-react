@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 // App
 import App from "./App";
 
-// Styles
+// Styles Global
 import "./styles/styles.css";
 
 ReactDOM.render(
